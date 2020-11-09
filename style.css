@@ -1,13 +1,17 @@
+body
+{
+    background-color: rgba(25, 104, 25, 0.644);
+}
 ul 
 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgba(233, 3, 3, 0.8);
+    background-color: rgba(255, 0, 0, 0.5);
 }
 li
 {
-    float: center;
+    float: left;
 
 }
 li a 
@@ -15,11 +19,37 @@ li a
     display: block;
     color: rgb(0, 0, 0);
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
     padding: 15px 15px;
 }
 li a:hover 
 {
     background-color: rgb(0, 0, 0);
     color:red;
+}
+h1
+{
+    font-size: 200%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+p
+{
+    color: black;
+    font-size: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div
+{
+    background-color: rgba(245, 245, 245, 0.424);
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 14%;
+}
+.img1
+{
+    text-align:  center;
+    background-color:rgba(245, 245, 245, 0);
+    
 }
