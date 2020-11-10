@@ -29,18 +29,35 @@ li a:hover
 }
 h1
 {
-    font-size: 200%;
+    font-size: 450%;
     text-align: center;
     color: rgb(0, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2
+{
+    text-align: center;
+    font-size: 250%;
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
 p
 {
     color: black;
-    font-size: 150%;
+    font-size: 125%;
     margin-left: 10%;
     margin-right: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 div
+{
+    background-color: rgba(245, 245, 245, 0.424);
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 14%;
+}
+.divi
 {
     background-color: rgba(245, 245, 245, 0.424);
     margin-left: 6%;
@@ -51,5 +68,17 @@ div
 {
     text-align:  center;
     background-color:rgba(245, 245, 245, 0);
-    
+}
+img
+{
+    border-radius: 35%;
+}
+.aa
+{
+    border-radius: 1% ;
+}
+.kep
+{
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
 }
